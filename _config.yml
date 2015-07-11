@@ -16,5 +16,4 @@ author:
 title: 'diegosouza@blog'
 description: '# tail -f ideias pensamentos experiências >> blog'
 url: https://diegosouza.github.io
-baseurl: /
 paginate: 5
