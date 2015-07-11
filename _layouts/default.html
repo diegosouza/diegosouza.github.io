@@ -11,5 +11,19 @@
       {{ content }}
     </div>
 
+    <script>
+        window.onload = function() {
+            var list = document.getElementsByTagName('a');
+            for (index in list) {
+                var address = list[index].href;
+                if ( ! address.match(/diegosouza\.github\.io/) ) {
+                    list[index].setAttribute('target', '_blank');
+                }
+            }
+        }
+    </script>
+
   </body>
+
+
 </html>
