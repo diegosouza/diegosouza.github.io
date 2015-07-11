@@ -1,17 +1,20 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:        /:categories/:title.html
+permalink: /:categories/:title.html
 relative_permalinks: true
 
 # Setup
+timezone: America/Sao_Paulo
+
 author:
-  name:           'Diego de Souza Mendes'
-  email:          'diegosouza.br@gmail.com'
-title:            'diegosouza@blog'
-description:      '# tail -f ideias pensamentos experiências >> blog'
-url:              https://diegosouza.github.io
-baseurl:          /
-paginate:         5
+  name: 'Diego de Souza Mendes'
+  email: 'diegosouza.br@gmail.com'
+
+title: 'diegosouza@blog'
+description: '# tail -f ideias pensamentos experiências >> blog'
+url: https://diegosouza.github.io
+baseurl: /
+paginate: 5
