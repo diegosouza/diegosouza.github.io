@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/diegosouza
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://diegosouza.github.io
+  * I am diegosouza (https://keybase.io/diegosouza) on keybase.
+  * I have a public key with fingerprint F9A8 A921 A56B BB63 D9DA  69CC CA3C F457 2699 A110
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101bcf4fc998fcedda414d6a48cd1d9db0316cc3825a59ad318d319e1fbd13702090a",
+            "fingerprint": "f9a8a921a56bbb63d9da69ccca3cf4572699a110",
+            "host": "keybase.io",
+            "key_id": "ca3cf4572699a110",
+            "kid": "0101bcf4fc998fcedda414d6a48cd1d9db0316cc3825a59ad318d319e1fbd13702090a",
+            "uid": "66f67708de9bd860359f7f3b7a9dff19",
+            "username": "diegosouza"
+        },
+        "service": {
+            "hostname": "diegosouza.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1442763191,
+    "expire_in": 157680000,
+    "prev": "2066d46122f4bb962d215b88eb5de778c393e743139c455314788045deddf3f1",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUn1MlVUcvhAQXkcqrJqIsF4YE/nw/f64mFxjYiKXlA+RDbq85z3nhVfhvpd7
+L1wRvxItkQLNsgjdYEWEDDTGaJUiENAKJUSdIdimIC2pJgHXwGS9l+qv+rOznZ2d
+33me5/c8v50Tfk/pPD2+XT+TEV5dt9yj/yegS1+41luKARWWYIZSbDdaPFA+RHaH
+ebcCMQOGEzgBJJmWJUHgZQlBKNIEDVmR5iVIQAECnCJYSaJ4khEZQYQUwWtbQIQM
+IEFxOIkLuIhFYbJiyUU2q02xODRZWRB5USAJkWEBACylCYmsIEmSSGnNGI5kBUEk
+CFwj5ql2N0MzB0Q7ilFUraZdzIv2/gP/P/suWpRjWZnlOJyHSACQZ3GKEWROpgAn
+ClCWCcENtCObRSxAGhoqKFe1q0V7RWx/FKbVixUJuUfrzvIvTEyu4sgrAn8ls9pU
+hyqp+Roiz+Gw2g1uBUeJ1U1xImD+W8wMFAvUJqoxipHNrqgWzEBoSMmhuNUJmiY5
+VotDRGFoj1WxIbPiRjAcy+PacvdBxUDTJHGWhTRLkKRMAyCwJCQJBvA8AgxEHMdL
+lEAhjqYISpBohqEImuN5nNYeIZQpmcDc+QotKmZgNJ9iriZpV3ItoqPIhrD9+nLP
+IC+dh6fOx9vT/dd0+iXL//mABbeWLTCgUDf+3BfP7FtZsmN1S//AbGt36KmMLV/7
+T8c2hEQ/cLwbuWTry5P3V6ecGtpjNJ+v3hVUG9rY5kzSbToTF5m1dCN7tl/vsffT
+EvxhdtnAhkPBm8ane85+0lNpMr7SfNs0e7AvZnY6LeH7ngstT158cLt2sKz4xrnx
+tqKvFnY8Lrgyuu1aeANhzhxeyab9/lJ29k6XT9rG0XVT+iMhc876+evWwPEJo7DC
+K+LNIw8rfYfVikx1Imrwl9ozu+ray+8cLsY6ejLeMes/ug/8N/dOTvkZYUpN3h/1
+wVVZ/FhZQhZ75+mdeY8b9WDGZaqs8OlqjL7bfnKIyBkIi794tf3ZFW+7Lm8day1w
+9iUFvBVHdwfmn7tFWm3vRYwk1AX3z6V+V7U5JyDQ1FUTHHqw/HCf34aRX5+vev0q
+wG3rnC52tPReZ+QBMd1/VVnXMfNvvqa7vedfiG38Jjr56KuXE+NvFGwJ8L1y1Jh8
+c7Dky0chM17dIX018sLH8rFLYYbOupvrvVKb1nDey7wzX7v0fr1Pw76c1tTYsI7J
+Culkd8QIRVVtiwo/3UJ/3tHUHl87dLr5+I8HYicP+a1NdW5vct27uL0zPX/Sp7pQ
+oBOvJ4wlzxufzDPT6LOWbmbVrPTBkCvxDVMp1UZWnGB/Hp5KktdmNmc/qv9h6sML
+6flxQRM1lrnCpSb/8DUpGX8C
+=pJjw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/diegosouza
+
+==================================================================
+
