@@ -1,13 +1,10 @@
 # Dependencies
-markdown: redcarpet
-highlighter: pygments
-
-# Permalinks
-permalink: /:categories/:title.html
-relative_permalinks: true
+markdown: kramdown
+gems: [jekyll-paginate]
 
 # Setup
 timezone: America/Sao_Paulo
+permalink: /:categories/:title.html/
 
 author:
   name: 'Diego de Souza Mendes'
